@@ -5,7 +5,7 @@ A web application that allows users to manage their stock portfolios by buying a
 ## Finance App Demonstration
 
 You can view the demonstration of the finance app by clicking the link below:
-[Watch the Finance App Video](https://github.com/your_username/your_repository_name/blob/main/finance_app.mov)
+[Watch the Finance App Video](https://github.com/AndrePortfolio/finance_app/blob/main/finance_app.mov)
 
 ## Features
 
