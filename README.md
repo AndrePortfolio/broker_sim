@@ -1,6 +1,6 @@
 # Finance App
 
-A web application that allows users to manage their stock portfolios by buying and selling shares of various stocks. This application provides real-time stock price information, user authentication, and a historical transaction log.
+A web application that allows users to manage their stock portfolios by buying and selling shares of various stocks. This application provides simmulated stock price information, user authentication, and a historical transaction log.
 
 ## Features
 
