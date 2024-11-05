@@ -2,6 +2,11 @@
 
 A web application that allows users to manage their stock portfolios by buying and selling shares of various stocks. This application provides simmulated stock price information, user authentication, and a historical transaction log.
 
+## Finance App Demonstration
+
+You can view the demonstration of the finance app by clicking the link below:
+[Watch the Finance App Video](https://github.com/your_username/your_repository_name/blob/main/finance_app.mov)
+
 ## Features
 
 - **User Authentication**: Secure login and registration for users.
