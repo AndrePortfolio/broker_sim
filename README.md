@@ -24,3 +24,9 @@ A web application that allows users to manage their stock portfolios by buying a
    ```bash
    git clone https://github.com/yourusername/finance-app.git
    cd finance-app
+   python3 -m venv venv
+   source venv/bin/activate
+   pip install --upgrade pip setuptools
+   pip install msgspec
+   pip install -r requirements.txt
+   flask run
