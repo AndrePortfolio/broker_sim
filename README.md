@@ -29,9 +29,9 @@ You can view the demonstration of the finance app by clicking the link below:
    ```bash
    git clone https://github.com/yourusername/finance-app.git
    cd finance-app
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   brew install python@3.10
    python3 -m venv venv
    source venv/bin/activate
-   pip install --upgrade pip setuptools
-   pip install msgspec
    pip install -r requirements.txt
    flask run
